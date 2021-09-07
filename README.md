@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroFigMoura
-- 👀 I’m interested in learning ways to improve my analytical skills through coding, as to start working more directly with digital products.
+- 👀 I’m interested in learning ways to improve my analytical skills through coding, so I can start working more directly with digital products.
 - 🌱 I’m currently learning Python and SQL
 - 💞️ Not looking to collaborate on anything, just trying to be a better professional
 - 📫 You can reach me on pedrofigmoura@gmail.com
