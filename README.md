@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PedroFigMoura<br>👀 I’m interested in learning ways to improve my analytical skills through coding.<br>🌱 I’m currently learning SQL (And improving my Python)<br>💞️ Not looking to collaborate on anything, just trying to be a better professional<br>📫 You can reach me on pedrofigmoura@gmail.com
+👋 Hi, I’m @PedroFigMoura<br>👀 I’m interested in learning ways to improve my analytical skills through coding.<br>🌱 I’m currently improving my Python and playing with some CSS <br>💞️ Not looking to collaborate on anything, just trying to be a better professional<br>📫 You can reach me on pedrofigmoura@gmail.com
 
 
 ## 🌐 Socials:
